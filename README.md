@@ -12,12 +12,16 @@ Collected raw electricity consumption dataset
 
 2. Data Cleaning (Python)
 Renamed columns for better understanding
+
 Removed empty rows
+
 Converted date column into proper datetime format
+
 Sorted data chronologically
+
 Exported cleaned dataset for further analysis
 
- 3. Data Analysis (Excel)
+ 4. Data Analysis (Excel)
 
 Imported cleaned dataset into Excel
 Created Pivot Tables to summarize data
