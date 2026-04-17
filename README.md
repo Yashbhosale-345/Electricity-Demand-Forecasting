@@ -112,7 +112,6 @@ Results
 Project Files
 
 * `5statesdata.csv` → Original dataset
-* `cleaned_5statesdata.csv` → Cleaned dataset
 * `data_cleaning.py` → Python script
 * `5statesdata.xlsx` → Excel dashboard with charts & forecast
 
