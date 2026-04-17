@@ -1,5 +1,5 @@
  Electricity Demand Analysis & Forecasting Dashboard
-Project Overview
+
 This project focuses on analyzing electricity consumption data and predicting future demand using data cleaning, Excel dashboards, and forecasting techniques.
  Dataset
 File: `5statesdata.csv`
